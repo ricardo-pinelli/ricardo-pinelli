@@ -19,5 +19,5 @@
 
 <h3>📊 GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gevolgdev&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-pinelli&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>

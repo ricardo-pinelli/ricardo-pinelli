@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gevolgdev/)
 
 #### Desenvolvedor na Buildbox
-<img width="50" height="50" src="https://buildbox.com.br/img/buildbox-white.svg" />
+<img width="150" src="https://buildbox.com.br/img/buildbox-white.svg" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-pinelli&show_icons=true&theme=dracula)
 

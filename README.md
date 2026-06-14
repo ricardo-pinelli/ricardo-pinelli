@@ -1,23 +1,21 @@
-<h1 align="center">Olá 👋, eu sou o Ricardo Pinelli</h1>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/> -->
-<h3 align="center">Desenvolvedor Full Stack focado em resolver problemas com tecnologia.</h3>
+### Olá! Eu sou o Ricardo Pinelli!
 
-<p align="center">
-  <a href="https://github.com/gevolgdev">
-    <img src="https://komarev.com/ghpvc/?username=gevolgdev&label=Profile%20views&color=0e75b6&style=flat" alt="gevolgdev" />
-  </a>
-</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-pinelli/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gevolgdev/)
 
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-pinelli&show_icons=true&theme=dracula)
 
-- 🌱 Estudos atuais: Next, GCloud e Docker
-- 💬 Me pergunte sobre: **React Native, Node.js e SaaS**  
-- 👨‍💻 Portfólio de projetos: [github.com/gevolgdev](https://github.com/gevolgdev)  
-- 📫 Contato: **gevolgdev@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-pinelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
+- Atualmente mais focado em:
 
-<h3>📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-pinelli&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+<div style="display: inline-block">
+
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    
+  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+    
+  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+    
+  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>

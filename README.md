@@ -1,34 +1,11 @@
-### Olá! Eu sou o Ricardo Pinelli!
+# Ricardo S. Pinelli 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-pinelli/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gevolgdev/)
+[![Instagram Badge](https://img.shields.io/badge/-@gevolgdev-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/gevolgdev)](https://instagram.com/gevolgdev)
+[![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20Pinelli-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-pinelli/)](https://www.linkedin.com/in/ricardo-pinelli/)
+[![Gmail Badge](https://img.shields.io/badge/-gevolgdev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gevolgdev@gmail.com)](mailto:gevolgdev@gmail.com)
 
-#### Desenvolvedor na Buildbox
-<img width="150" src="https://buildbox.com.br/img/buildbox-white.svg" />
+Enthusiast of the best web & mobile development technologies.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-pinelli&show_icons=true&theme=dracula)
+Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-pinelli&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-- Trabalho com:
-
-<div style="display: inline-block; gap: 15px">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />  
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />    
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />   
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
-</div>
-
-- Tenho estudado:
-
-<div style="display: inline-block; gap: 15px">
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-</div>
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."

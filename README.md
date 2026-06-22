@@ -31,6 +31,3 @@ Scrum • Kanban
 **Em evolução constante**  
 📚 Fullcycle • 🏗️ Arquitetura de Software • 🔐 Segurança • 🤖 AI • AWS
 
----
-
-Feito com ❤️ em Campinas, SP

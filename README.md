@@ -1,11 +1,34 @@
-# Ricardo S. Pinelli 
+# Ricardo S. Pinelli
 
-[![Instagram Badge](https://img.shields.io/badge/-@gevolgdev-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/gevolgdev)](https://instagram.com/gevolgdev)
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20Pinelli-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-pinelli/)](https://www.linkedin.com/in/ricardo-pinelli/)
+[![Instagram Badge](https://img.shields.io/badge/-@gevolgdev-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://instagram.com/gevolgdev)](https://instagram.com/gevolgdev)
 [![Gmail Badge](https://img.shields.io/badge/-gevolgdev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gevolgdev@gmail.com)](mailto:gevolgdev@gmail.com)
 
-Enthusiast of the best web & mobile development technologies.
+Olá! Sou **Ricardo Pinelli**, desenvolvedor Full Stack com mais de 3 anos de experiência em JavaScript e TypeScript.
 
-Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
+Tenho paixão por criar aplicações web e mobile que resolvem problemas reais e geram impacto positivo. Atualmente estou desenvolvendo o **Stockfy** — um app inteligente com IA para controle de despensa e estoque doméstico via código de barras — e avançando em projetos da **Gevolgx**.
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+## 🛠️ Tecnologias
+
+### Que utilizo atualmente
+
+**Frontend & Mobile**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="18" style="vertical-align: middle;" alt="React" /> React • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="18" style="vertical-align: middle;" alt="React Native" /> React Native • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="18" style="vertical-align: middle;" alt="Next.js" /> Next.js • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="18" style="vertical-align: middle;" alt="TypeScript" /> TypeScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="18" style="vertical-align: middle;" alt="Android" /> Android
+
+**Backend & Database**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="18" style="vertical-align: middle;" alt="Node.js" /> Node.js • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="18" style="vertical-align: middle;" alt="NestJS" /> NestJS • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="18" style="vertical-align: middle;" alt="MongoDB" /> MongoDB • <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/supabase.svg" width="18" style="vertical-align: middle;" alt="Supabase" /> Supabase • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="18" style="vertical-align: middle;" alt="Firebase" /> Firebase
+
+**DevOps & Cloud**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="18" style="vertical-align: middle;" alt="Docker" /> Docker • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="18" style="vertical-align: middle;" alt="Kubernetes" /> Kubernetes • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="18" style="vertical-align: middle;" alt="GCP" /> GCP • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="18" style="vertical-align: middle;" alt="GitHub Actions" /> GitHub Actions
+
+**iOS & Ferramentas**  
+💻 Xcode • 🔧 Git
+
+### Atualmente estudando e aprimorando
+
+**Em evolução constante**  
+📚 Fullcycle • 🏗️ Arquitetura de Software • 🔐 Segurança • 🤖 AI • 💻 C
+
+---
+
+Feito com ❤️ em Campinas, SP

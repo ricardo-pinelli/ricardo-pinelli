@@ -1,6 +1,6 @@
 <h1 align="center">Ricardo S. Pinelli</h1>
 
-<p align="center">Desenvolvedor Full Stack · JavaScript &amp; TypeScript</p>
+<p align="center">Desenvolvedor de software Full Stack</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ricardo-pinelli/">
@@ -16,7 +16,7 @@
 
 <br />
 
-**Olá! Sou Ricardo Pinelli**, desenvolvedor Full Stack com mais de 3 anos de experiência em JavaScript e TypeScript.
+**Olá! Sou Ricardo Pinelli**, desenvolvedor Full Stack com mais de 5 anos de experiência em JavaScript e TypeScript.
 
 Tenho paixão por criar aplicações web e mobile que resolvem problemas reais e geram impacto positivo. Atualmente estou desenvolvendo o **Stockfy** — um app inteligente com IA para controle de despensa e estoque doméstico via código de barras — e avançando em projetos da GevolgX.
 

@@ -16,7 +16,7 @@
 
 <br />
 
-**Olá! Sou Ricardo Pinelli**, desenvolvedor Full Stack com mais de 5 anos de experiência em JavaScript e TypeScript.
+**Olá! Sou Ricardo Pinelli**, desenvolvedor Full Stack com mais de 5 anos de experiência.
 
 Tenho paixão por criar aplicações web e mobile que resolvem problemas reais e geram impacto positivo. Atualmente estou desenvolvendo o **Stockfy** — um app inteligente com IA para controle de despensa e estoque doméstico via código de barras — e avançando em projetos da GevolgX.
 

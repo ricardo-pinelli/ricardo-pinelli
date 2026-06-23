@@ -70,7 +70,7 @@ No meu trabalho atual na **Buildbox**, atuo como desenvolvedor Full Stack em div
         Dois aplicativos + painel administrativo e backends para suporte aos clientes.
         Criação de features que melhoram o dia a dia de clientes e colaboradores.
       </p>
-      <sub><b>Aprendizados:</b> NestJS</sub>
+      <sub><b>Aprendizados:</b> NestJS · Arquitetura de software</sub>
     </td>
   </tr>
   <tr>

@@ -28,8 +28,7 @@ No meu trabalho atual na **Buildbox**, atuo como desenvolvedor Full Stack em div
   <tr>
     <td width="50%" valign="top">
       <h4>
-        <img src="https://media.licdn.com/dms/image/v2/D4D2DAQH9MDInovY7Gw/profile-treasury-image-shrink_8192_8192/B4DZf5tLeqHkAg-/0/1752241060176?e=1782835200&v=beta&t=cC8LC0yPht7JlWLyC8tLRNjRcxfFWSptmX6w7PcJB1o" width="20" align="top" />
-        &nbsp;Harv
+        📱 Harv
       </h4>
       <p>
         Plataforma no formato feed estilo TikTok onde empresas divulgam seus serviços.
@@ -39,8 +38,7 @@ No meu trabalho atual na **Buildbox**, atuo como desenvolvedor Full Stack em div
     </td>
     <td width="50%" valign="top">
       <h4>
-        <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEGzoJ1B0J4fw/profile-treasury-image-shrink_8192_8192/B4DZf5u4XRGgAg-/0/1752241506191?e=1782835200&v=beta&t=3KpaM_8KopS9OcB7rnN8pGzvevudDnVVDVMbk0TH6gU" width="20" align="top" />
-        &nbsp;Grupo Petrópolis
+        🍺 Grupo Petrópolis
       </h4>
       <p>
         Aplicativo interno para vendedores registrarem vendas e pedidos. Desenvolvi o
@@ -52,8 +50,7 @@ No meu trabalho atual na **Buildbox**, atuo como desenvolvedor Full Stack em div
   <tr>
     <td width="50%" valign="top">
       <h4>
-        <img src="https://media.licdn.com/dms/image/v2/D4D2DAQF7FJCf5sJvgw/profile-treasury-image-shrink_800_800/B4DZxNvnRAGQAY-/0/1770830853598?e=1782835200&v=beta&t=EJAJIJGotNnts03bSsFv3TUdRO-dzD060PgkSYQ0X-o" width="20" align="top" />
-        &nbsp;O Bastidor
+        🗞️ O Bastidor
       </h4>
       <p>
         Aplicativo de notícias em React Native. Fui responsável por todo o frontend:
@@ -63,8 +60,7 @@ No meu trabalho atual na **Buildbox**, atuo como desenvolvedor Full Stack em div
     </td>
     <td width="50%" valign="top">
       <h4>
-        <img src="https://media.licdn.com/dms/image/v2/D4D2DAQE92ICuGld8bw/profile-treasury-image-shrink_1920_1920/B4DZf5wn3iH8Ag-/0/1752241962971?e=1782835200&v=beta&t=HUK2PzQxJWXlbt5-0GDBlzxcix9Gn39ka91TY2kvLHM" width="20" align="top" />
-        &nbsp;Higa Atacado
+        🛒 Higa Atacado
       </h4>
       <p>
         Dois aplicativos + painel administrativo e backends para suporte aos clientes.
